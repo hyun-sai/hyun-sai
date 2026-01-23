@@ -20,13 +20,4 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
   <br/><br/>
-
-  <h2>Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=CheonjiKim&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheonjiKim&layout=compact&theme=radical&hide_border=true" />
-
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CheonjiKim&theme=radical&hide_border=true" />
 </div>
