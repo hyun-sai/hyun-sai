@@ -7,7 +7,7 @@
   <p>Undergraduate <b>Computer Science</b> student at Sangmyung University.</p>
   <p>Interested in <b>NLP and Generative AI</b>.</p>
   <br>
-  <p>Contact me: <b>202210911@sangmyung.kr</b></p>
+  <p>Contact me: <b>202210985@sangmyung.kr</b></p>
 
   <br>
   <hr>
