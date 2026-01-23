@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://git.io/typing-svg?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+I'm+Hyun-Sung+Choi;Computer+Science+Student;Interested+in+NLP+and+GenAI" alt="Typing SVG" />
+  <img src="https://git.io/typing-svg?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+I'm+Hyeonseong+Choi;Computer+Science+Student;Interested+in+NLP+and+GenAI" alt="Typing SVG" />
 
   <h2>About Me 🙋‍♂️</h2>
   <p>
@@ -20,4 +20,10 @@
   
   <br/>
   
-  <img src="
+  <img src="https://img.shields.io/badge/Assembler-000000?style=for-the-badge&logo=assemblyscript&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+  <br/><br/>
+</div>
