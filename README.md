@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://git.io/typing-svg?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+I'm+Hyeonseong+Choi;Computer+Science+Student;Interested+in+NLP+and+GenAI" alt="Typing SVG" />
 
   <h2>About Me 🙋‍♂️</h2>
@@ -27,3 +27,4 @@
 
   <br/><br/>
 </div>
+](https://github.com/CheonjiKim)
