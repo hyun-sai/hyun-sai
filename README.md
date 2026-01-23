@@ -12,20 +12,12 @@
   <br/>
 
   <h2>Tech Stacks 📚</h2>
+  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
   <br/>
-  <img src="https://img.shields.io/badge/Assembler-000000?style=for-the-badge&logo=assemblyscript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
-  <br/><br/>
-
-  <h2>Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=CheonjiKim&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheonjiKim&layout=compact&theme=radical&hide_border=true" height="150" />
-
-</div>
+  
+  <img src="
