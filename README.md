@@ -5,7 +5,8 @@
 
   <h2>About Me 🙋‍♂️</h2>
   <p>Undergraduate <b>Computer Science</b> student at Sangmyung University.</p>
-  <p>Interested in <b>NLP and Generative AI</b>.</p>
+  <p>직접 만들고, 직접 배포하고, 직접 부수는 걸 좋아합니다. 🔨</p>
+  <p>풀스택 웹 개발과 인터랙티브 경험에 관심이 많습니다.</p>
   <br>
   <p>Contact me: <b>202210985@sangmyung.kr</b></p>
 
@@ -57,7 +58,7 @@
         <a href="https://github.com/hyun-sai/SW_PinWord">📁 GitHub</a>
       </td>
       <td align="center" width="350">
-        <img src="https://img.shields.io/badge/🪐 Solar Portfolio--1a1a2e?style=for-the-badge" alt="Solar Portfolio">
+        <img src="https://img.shields.io/badge/🪐 Solar Portfolio-LIVE-1a1a2e?style=for-the-badge" alt="Solar Portfolio">
         <br><br>
         <b>실시간 3D 태양계 시뮬레이션</b>
         <br>
