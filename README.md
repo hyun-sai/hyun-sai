@@ -39,7 +39,7 @@
 
   <table>
     <tr>
-      <td align="center" width="500">
+      <td align="center" width="350">
         <a href="https://pinword.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/🔴 PinWord-LIVE-e60023?style=for-the-badge" alt="PinWord">
         </a>
@@ -55,6 +55,18 @@
         <br><br>
         <a href="https://pinword.netlify.app">🌐 Demo</a> &nbsp;|&nbsp;
         <a href="https://github.com/hyun-sai/SW_PinWord">📁 GitHub</a>
+      </td>
+      <td align="center" width="350">
+        <img src="https://img.shields.io/badge/🪐 Solar Portfolio--1a1a2e?style=for-the-badge" alt="Solar Portfolio">
+        <br><br>
+        <b>실시간 3D 태양계 시뮬레이션</b>
+        <br>
+        <sub>인터랙티브 3D 태양계 · 실시간 행성 궤도 · 포트폴리오</sub>
+        <br><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
+        <br><br>
+        <a href="https://github.com/hyun-sai/solar-portfolio">📁 GitHub</a>
       </td>
     </tr>
   </table>
