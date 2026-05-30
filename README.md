@@ -38,6 +38,23 @@
   <table>
     <tr>
       <td align="center" width="350">
+        <b>🌿 뭉케어 (Moong Care)</b>
+        <br>
+        <img src="https://img.shields.io/badge/🏆_제3회_COSS-대상_수상-gold?style=flat-square">
+        <br>
+        <sub>AI 음성 바이오마커 기반 감정 케어 서비스</sub>
+        <br>
+        <sub>목소리 떨림 분석 · SER · 감정 일기 · 커스터마이징</sub>
+        <br><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Web_Audio_API-FF6B35?style=flat-square">
+        <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white">
+        <br><br>
+        <a href="https://stately-pika-5fe740.netlify.app"><img src="https://img.shields.io/badge/Live-2ECC71?style=flat-square"></a>
+        &nbsp;
+        <a href="https://github.com/hyun-sai/Moong-Care"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+      </td>
+      <td align="center" width="350">
         <b>PinWord</b>
         <br>
         <sub>Pinterest-style English vocabulary learning platform</sub>
@@ -53,6 +70,8 @@
         &nbsp;
         <a href="https://github.com/hyun-sai/SW_PinWord"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="350">
         <b>Solar Portfolio</b>
         <br>
@@ -67,6 +86,7 @@
         &nbsp;
         <a href="https://github.com/hyun-sai/solar-portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
       </td>
+      <td></td>
     </tr>
   </table>
 
